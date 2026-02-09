@@ -3,7 +3,7 @@
 > Visit my [Blog](http://pete.rai.org.uk) to get in touch or to
 see demos of this and much more.
 
-Transform your Enigma2 satellite receiver into a fully browsable Video-on-Demand library with rich metadata, cover art, and custom UI components.
+Transform your Enigma2 satellite receiver into a fully browsable Video-on-Demand library with rich metadata, cover art, and custom UI components. See the screenshots folder for a visual reference.
 
 ## Overview
 
